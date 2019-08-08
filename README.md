@@ -8,5 +8,4 @@ A basic 3D engine programmed with LWJGL, loosely following *ThinMatrix*'s youtub
 - Fog
 - Camera movement system
 
-
 *Written in 2016-2017, revised in 2019*
