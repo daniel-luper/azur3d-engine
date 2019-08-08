@@ -7,5 +7,6 @@ A basic Java 3D engine programmed with LWJGL, roughly following *ThinMatrix*'s y
 - Transparent textures
 - Fog
 - Camera movement system
+- Two environments
 
 *Written in 2016-2017, revised in 2019*
