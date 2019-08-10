@@ -1,5 +1,5 @@
 # Azur Engine
-A basic Java 3D engine programmed with LWJGL, roughly following *ThinMatrix*'s youtube tutorial series.
+A basic Java 3D engine programmed with [LWJGL 2](http://legacy.lwjgl.org/), roughly following [*ThinMatrix*'s youtube tutorial series](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP).
 
 ## Features
 - 3D model importing (OBJ format)
