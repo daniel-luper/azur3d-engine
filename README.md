@@ -11,7 +11,6 @@ A basic Java 3D engine programmed with [LWJGL 2](http://legacy.lwjgl.org/), roug
 
 ## Demo
 
-#### Download (Windows)
-Download executable file from [here](https://www.dropbox.com/s/hos0lqdb12ix37h/AzurDemo.exe?dl=0)
+Download Windows executable file from [here](https://www.dropbox.com/s/hos0lqdb12ix37h/AzurDemo.exe?dl=0)
 
 *Written in 2016-2017, revised in 2019*
